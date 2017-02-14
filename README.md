@@ -6,6 +6,9 @@ For more information about CS106B visit: htthttp://web.stanford.edu/class/archiv
 Content:
 
 hw1CodeCamp:  A crash course in Java and Junit woth Eclipse
+
               - StringCode: string manipulation in java und some basic algorithms
+
               - CharGrid: double arrays and search algorithms using standard interfaces and lambda expressions
+              
               - TetrisGrid: double arrays 
