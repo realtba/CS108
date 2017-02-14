@@ -5,10 +5,16 @@ For more information about CS106B visit: htthttp://web.stanford.edu/class/archiv
 
 Content:
 
-hw1CodeCamp:  A crash course in Java and Junit woth Eclipse
+hw1CodeCamp:  A bursh up in Java and Junit. The files and the tests in this folder are:
 
               - StringCode: string manipulation in java und some basic algorithms
 
               - CharGrid: double arrays and search algorithms using standard interfaces and lambda expressions
               
               - TetrisGrid: double arrays 
+              
+              - Appearances: Collections and hashing
+              
+              - Taboo: Generics and lists
+              
+              - Shape: Basic OOP design
